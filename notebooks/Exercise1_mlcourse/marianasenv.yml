@@ -1,0 +1,5 @@
+name: marianasenv
+channels:
+  - defaults
+prefix: C:\Users\maria\Anaconda3\envs\marianasenv
+
